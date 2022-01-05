@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulsaikarlapudi
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on learning new techniques
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me karlapudirahulsai@gmail.com
 
 <!---
