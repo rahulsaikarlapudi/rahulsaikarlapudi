@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @rahulsaikarlapudi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me karlapudirahulsai@gmail.com
-
+Actively looking for Full Time SDE New Grad roles starting December 2022 | Graduate Student at Stevens Institute of Technology.
 <!---
 rahulsaikarlapudi/rahulsaikarlapudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
